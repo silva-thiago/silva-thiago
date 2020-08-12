@@ -14,7 +14,7 @@ My name is Thiago Silva and I'm from Brazil :brazil: . I have been working as a 
 <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
 <div style="margin: 1rem .5rem !important">
   <a target="_blank" href="https://www.buymeacoffee.com/thiagosilva" style="padding: .5rem 1rem !important; line-height: 35px !important; height: 51px !important;text-decoration: none !important; display: inline-flex !important; color :#FFFFFF !important; background-color: #FF813F !important; border-radius: 8px !important; border: 1px solid transparent !important; font-size: 24px !important; letter-spacing: 0.6px !important; box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important; -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important; margin: 0 auto !important; font-family: 'Cookie', cursive !important;-webkit-box-sizing: border-box !important; box-sizing: border-box !important;">
-    <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="auto" height="1.5rem" style=".height: 1.5rem !important; width: auto !important;margin-bottom: 1px !important; box-shadow: none !important; border: none !important; vertical-align: middle !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="25px" height="26px" style=".height: 26px !important; width: 25px !important;margin-bottom: 1px !important; box-shadow: none !important; border: none !important; vertical-align: middle !important;">
     <span style="margin-right: .5rem; font-size: 2rem !important;">Buy me a coffee</span>
   </a>
 </div>
