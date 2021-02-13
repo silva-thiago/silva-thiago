@@ -4,7 +4,7 @@ My name is Thiago Silva and I'm from Brazil :brazil: . I have been working as a 
 
 🌱 I’m currently learning ReactJS :electron:
 
-⚡ Fun fact: I love photography and I am also a social and documentary photographer. Check out the following link [photographic portfolio](https://thiagosilva.alboompro.com) and enjoy my art.
+⚡ Fun fact: I love photography and I am also a social and documentary photographer. Check out the following from my link [photographic portfolio](https://thiagosilva.alboompro.com) and enjoy my art.
 
 📫 Would you like to reach me?
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&labelColor=F7FAFC&logo=telegram&logoColor=FFFFFF&link=https://t.me/silvathiago)](https://t.me/silvathiago)
