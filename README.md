@@ -1,31 +1,117 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cookie&family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+  .greetings p,
+  .greetings a {
+    font-family: 'Fira Code', monospace;
+  }
+
+  .github-stats {
+    display:flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .github-stats a {
+    height: 128px;
+    width: auto;
+  }
+
+  @media only screen and (min-width: 640px) {
+    .github-stats {
+      flex-direction: row;
+    }
+  }
+
+  .buy-me-a-coffee {
+    margin-top: 1rem;
+  }
+
+  .buy-me-a-coffee a {
+    background-color: #FF7A33;
+    border: 0.063rem solid transparent;
+    border-radius: 0.25rem;
+    box-shadow: none;
+    box-sizing: border-box;
+    color :#FFFFFF;
+    display: inline-flex; 
+    font-family: 'Cookie', cursive;
+    font-size: 1.5em;
+    height: 3rem;
+    letter-spacing: 0.031rem;
+    line-height: normal;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    -webkit-box-shadow: none;
+    -webkit-box-sizing: border-box;
+  }
+
+  .buy-me-a-coffee a:focus,
+  .buy-me-a-coffee a:hover {
+    background-color: #FF5900;
+    box-shadow: 0 0.063rem 0.125rem 0.125rem rgba(133, 133, 133, 0.5);
+    -webkit-box-shadow: 0 0.063rem 0.125rem 0.125rem rgba(133, 133, 133, 0.5);
+  }
+
+  .buy-me-a-coffee a img {
+    border: none;
+    box-shadow: none;
+    height: 1.5rem;
+    margin-bottom: 0.063rem;
+    vertical-align: middle;
+    width: 1.5rem;
+  }
+
+  .buy-me-a-coffee a span {
+    font-size: 1em;
+    margin-right: 0.5rem; 
+  }
+</style>
+
 ### Hi there 👋
+<div class="greetings">
+  <p>
+    😊 My name is Thiago Silva and I'm from Brazil 🇧🇷. I have been working as a front-end developer since 2015 and I am currently studying software engineering at Metrópole Digital Institute at the Federal University of Rio Grande do Norte. I have my space on GitHub, where I make it as my personal code lab, sharing many things here :)
+  </p>
 
-My name is Thiago Silva and I'm from Brazil :brazil: . I have been working as a front-end developer since 2015 and I am currently studying software engineering at Metrópole Digital Institute at the Federal University of Rio Grande do Norte. I have my space on GitHub, where I make it as my personal code lab, sharing many things here :)
+  <p>🌱 I’m currently learning ⤵️</p>
+    
+  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🌱 I’m currently learning ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-⚡ Fun fact: I love photography 📸 and I am also a social and documentary photographer. Check out the following from my link [photographic portfolio](https://thiagosilva.alboompro.com) and enjoy my art.
+  <p>
+    ⚡ Fun fact: I love photography 📸 and I am also a social and documentary photographer. Check out the following from my link below and I hope you enjoy my art.
+  </p>
 
-📫 Would you like to reach me?
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&labelColor=F7FAFC&logo=telegram&logoColor=FFFFFF&link=https://t.me/silvathiago)](https://t.me/silvathiago)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=F7FAFC&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/tjl_silva)](https://twitter.com/tjl_silva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=F7FAFC&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/tjlsilva/)](https://www.linkedin.com/in/tjlsilva/)
+  <a href="https://thiagosilva.alboompro.com" target="_blank">https://thiagosilva.alboompro.com</a>
 
-<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
-<div style="margin: 1rem 0.5rem !important">
-  <a target="_blank" href="https://www.buymeacoffee.com/thiagosilva" style="padding: 0.5rem 1rem !important; line-height: 35px !important; height: 51px !important;text-decoration: none !important; display: inline-flex !important; color :#FFFFFF !important; background-color: #FF813F !important; border-radius: 8px !important; border: 1px solid transparent !important; font-size: 24px !important; letter-spacing: 0.6px !important; box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important; -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important; margin: 0 auto !important; font-family: 'Cookie', cursive !important;-webkit-box-sizing: border-box !important; box-sizing: border-box !important;">
-    <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee" width="25px" height="26px" style=".height: 26px !important; width: 25px !important;margin-bottom: 1px !important; box-shadow: none !important; border: none !important; vertical-align: middle !important;">
-    <span style="margin-right: 0.5rem; font-size: 2rem !important;">Buy me a coffee</span>
+
+  <p>📫 Reach me...</p>
+  
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&labelColor=F7FAFC&logo=telegram&logoColor=0088cc&link=https://t.me/silvathiago)](https://t.me/silvathiago)
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&labelColor=F7FAFC&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/tjl_silva)](https://twitter.com/tjl_silva)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=F7FAFC&logo=linkedin&logoColor=0077B5&link=https://www.linkedin.com/in/s-thiago/)](https://www.linkedin.com/in/s-thiago/)
+
+  <p>😄 Pronouns: He/Him/His</p>
+</div>
+
+<div class="github-stats">
+  <a href="https://github.com/silva-thiago/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=silva-thiago&theme=radical&show_icons=true&hide_title=true&cache_seconds=86400&include_all_commits=true" alt="Cartão de estatísticas do GitHub" />
+  </a>
+
+  <a href="https://github.com/silva-thiago/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-thiago&theme=radical&hide_title=true&layout=compact" alt="Cartão de principais linguagens de programação" />
   </a>
 </div>
 
-<div style="margin: 0.5rem auto">
-  <a href="https://github.com/silva-thiago/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=silva-thiago&theme=radical&show_icons=true&hide_title=true&cache_seconds=86400&line_height=30&include_all_commits=true" alt="Cartão de estatísticas do GitHub" width="auto" height="128px" style="margin: 0 0.5rem;" />
-  </a>
-
-  <a href="https://github.com/silva-thiago/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silva-thiago&theme=radical&hide_title=true&layout=compact" alt="Cartão de principais linguagens de programação" width="auto" height="128px" style="margin: 0 0.5rem;" />
+<div class="buy-me-a-coffee">
+  <a target="_blank" href="https://www.buymeacoffee.com/thiagosilva">
+    <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee">
+    <span>Buy me a coffee</span>
   </a>
 </div>
 
